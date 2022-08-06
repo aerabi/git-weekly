@@ -6,3 +6,4 @@
 # Git Weekly
 1. [Git: Determine Branch]( https://link.medium.com/lz1YApQlesb)
 2. [Git: Change Author]( https://link.medium.com/B13kkJVlesb)
+3. [](https://aerabi.medium.com/git-merge-vs-rebase-938950fb218?source=list-13982d09d3b0--------15-------9fe103e35b4b---------------------)
