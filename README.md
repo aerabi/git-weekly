@@ -6,4 +6,9 @@
 # Git Weekly
 1. [Git: Determine Branch]( https://link.medium.com/lz1YApQlesb)
 2. [Git: Change Author]( https://link.medium.com/B13kkJVlesb)
-3. [](https://aerabi.medium.com/git-merge-vs-rebase-938950fb218?source=list-13982d09d3b0--------15-------9fe103e35b4b---------------------)
+3. [Git: Merge vs Rebase: The Three Types of Merge](https://itnext.io/git-merge-vs-rebase-938950fb218)
+4. [Git: Merge vs Rebase and Where to Use Them](https://itnext.io/git-merge-vs-rebase-and-where-to-use-them-2a0a6e88769d)
+5. [Git: Commit Squash](https://itnext.io/git-commit-squash-64c5b23b188a)
+6. [Git: Get One File From Another Repo](https://itnext.io/git-get-one-file-from-another-repo-34471067af51)
+7. [Git Submodules](https://itnext.io/git-submodules-489f3d6222cd)
+8. [Git Submodule Update](https://itnext.io/git-submodule-update-30ef27ea1f79)
