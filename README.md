@@ -22,3 +22,7 @@
 16. [Git Binary Search: How to find a bad commit?](https://itnext.io/git-binary-search-de86e9aa334a)
 17. [Git Merge Tools: How to resolve conflicts using Git?](https://itnext.io/git-merge-tools-be2efd7ec9db)
 18. [Seven Git Configs: To Set When Moving to a New Machine](https://itnext.io/seven-git-configs-9de48007aa77)
+
+# Git Yearly
+1. [16 Git Tips and Tricks: On Git's 16th Birthday](https://itnext.io/16-git-tips-and-tricks-bf08d0602d3b)
+2. [17 Git Best Practices: On Git's 17th Birthday](https://itnext.io/17-git-best-practices-1988c7306e6b)
