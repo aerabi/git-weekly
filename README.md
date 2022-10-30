@@ -22,6 +22,8 @@
 16. [Git Binary Search: How to find a bad commit?](https://itnext.io/git-binary-search-de86e9aa334a)
 17. [Git Merge Tools: How to resolve conflicts using Git?](https://itnext.io/git-merge-tools-be2efd7ec9db)
 18. [Seven Git Configs: To Set When Moving to a New Machine](https://itnext.io/seven-git-configs-9de48007aa77)
+19. [Sign Git Commits: On Linux or Mac, with Github](https://itnext.io/sign-git-commits-7518318b804a)
+20. [5 Git(Ops) Practices at Jodel](https://medium.com/jodel-engineering/5-git-ops-practices-at-jodel-cb1b62649562)
 
 # Git Yearly
 1. [16 Git Tips and Tricks: On Git's 16th Birthday](https://itnext.io/16-git-tips-and-tricks-bf08d0602d3b)
