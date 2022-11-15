@@ -28,3 +28,7 @@
 # Git Yearly
 1. [16 Git Tips and Tricks: On Git's 16th Birthday](https://itnext.io/16-git-tips-and-tricks-bf08d0602d3b)
 2. [17 Git Best Practices: On Git's 17th Birthday](https://itnext.io/17-git-best-practices-1988c7306e6b)
+
+# Docker Blog
+- [How to Build and Deploy a Django-based URL Shortener App from Scratch](https://www.docker.com/blog/how-to-build-and-deploy-a-django-based-url-shortener-app-from-scratch/)
+- [How to Build and Deploy a URL Shortener Using TypeScript and Nest.js](https://www.docker.com/blog/how-to-build-and-deploy-a-url-shortener-using-typescript-and-nest-js/)
