@@ -32,3 +32,6 @@
 # Docker Blog
 - [How to Build and Deploy a Django-based URL Shortener App from Scratch](https://www.docker.com/blog/how-to-build-and-deploy-a-django-based-url-shortener-app-from-scratch/)
 - [How to Build and Deploy a URL Shortener Using TypeScript and Nest.js](https://www.docker.com/blog/how-to-build-and-deploy-a-url-shortener-using-typescript-and-nest-js/)
+
+# Snyk Blog
+- [Fetch the Flag CTF 2022 writeup: Potty Training](https://snyk.io/blog/fetch-the-flag-ctf-2022-writeup-potty-training/)
