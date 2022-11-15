@@ -24,6 +24,8 @@
 18. [Seven Git Configs: To Set When Moving to a New Machine](https://itnext.io/seven-git-configs-9de48007aa77)
 19. [Sign Git Commits: On Linux or Mac, with Github](https://itnext.io/sign-git-commits-7518318b804a)
 20. [5 Git(Ops) Practices at Jodel](https://medium.com/jodel-engineering/5-git-ops-practices-at-jodel-cb1b62649562)
+21. [On Huge Pull Requests and How to Divide Them](https://itnext.io/of-the-huge-pull-requests-b851d45fe9e)
+22. [Git: Fixup Your Commit](https://medium.com/itnext/git-fixup-your-commit-e1047f2fb966)
 
 # Git Yearly
 1. [16 Git Tips and Tricks: On Git's 16th Birthday](https://itnext.io/16-git-tips-and-tricks-bf08d0602d3b)
