@@ -26,6 +26,9 @@
 20. [5 Git(Ops) Practices at Jodel](https://medium.com/jodel-engineering/5-git-ops-practices-at-jodel-cb1b62649562)
 21. [On Huge Pull Requests and How to Divide Them](https://itnext.io/of-the-huge-pull-requests-b851d45fe9e)
 22. [Git: Fixup Your Commit](https://medium.com/itnext/git-fixup-your-commit-e1047f2fb966)
+23. [6 Git Tips for Christmas](https://itnext.io/6-git-tips-for-christmas-ad320252167)
+24. [Git Diff Between Branches](https://itnext.io/git-diff-between-branches-ddc59ae7f566)
+25. [Continuous Integration: The Idea of It and How to Use It](https://itnext.io/continuous-integration-6a8914a5edc8)
 
 # Git Yearly
 1. [16 Git Tips and Tricks: On Git's 16th Birthday](https://itnext.io/16-git-tips-and-tricks-bf08d0602d3b)
