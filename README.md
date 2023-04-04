@@ -39,6 +39,11 @@
 33. [Close Issue with Commit on GitHub and GitLab](https://itnext.io/close-issue-with-commit-351043bac7ff)
 34. [Git Merge vs Rebase vs Squash: On Squash Merge and When to Us It](https://itnext.io/git-merge-vs-rebase-vs-squash-8c3b6a2405e0)
 
+# Docker Monthly
+1. [WASM+Docker Hello World](https://blog.devgenius.io/wasm-docker-hello-world-2ac6a456ddd4)
+2. [Docker Scout vs Scan](https://itnext.io/docker-scout-vs-scan-90ce6d6fd04c)
+3. [Why Docker Scout](https://itnext.io/why-docker-scout-1a04dddb050f)
+
 # Git Yearly
 1. [16 Git Tips and Tricks: On Git's 16th Birthday](https://itnext.io/16-git-tips-and-tricks-bf08d0602d3b)
 2. [17 Git Best Practices: On Git's 17th Birthday](https://itnext.io/17-git-best-practices-1988c7306e6b)
