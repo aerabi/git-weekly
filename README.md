@@ -29,6 +29,15 @@
 23. [6 Git Tips for Christmas](https://itnext.io/6-git-tips-for-christmas-ad320252167)
 24. [Git Diff Between Branches](https://itnext.io/git-diff-between-branches-ddc59ae7f566)
 25. [Continuous Integration: The Idea of It and How to Use It](https://itnext.io/continuous-integration-6a8914a5edc8)
+26. [Undo Git Rebase](https://itnext.io/undo-git-rebase-77aefc9e0f08)
+27. [Git 2.38 Is Out: On Branch Chains](https://itnext.io/git-2-38-is-out-c8aed613474d)
+28. [Create a Patch with Git](https://itnext.io/create-a-patch-with-git-e2d43587e116)
+29. [7 Tips to Work with Branches on Git](https://itnext.io/7-tips-to-work-with-branches-on-git-62912537e56)
+30. [Git Commands to Use Instead of Checkout: Introduction to Git Switch and Restore](https://itnext.io/git-commands-to-use-instead-of-checkout-8c038a7268b)
+31. [Best Coding Practices for Git: How to Not Mess Up Git Blame](https://itnext.io/best-coding-practices-for-git-e9335c95f21d)
+32. [Docker Images Scan GitHub Action](https://itnext.io/docker-image-scan-github-action-27b2ea322740)
+33. [Close Issue with Commit on GitHub and GitLab](https://itnext.io/close-issue-with-commit-351043bac7ff)
+34. [Git Merge vs Rebase vs Squash: On Squash Merge and When to Us It](https://itnext.io/git-merge-vs-rebase-vs-squash-8c3b6a2405e0)
 
 # Git Yearly
 1. [16 Git Tips and Tricks: On Git's 16th Birthday](https://itnext.io/16-git-tips-and-tricks-bf08d0602d3b)
