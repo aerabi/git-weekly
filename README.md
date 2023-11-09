@@ -43,6 +43,9 @@
 1. [WASM+Docker Hello World](https://blog.devgenius.io/wasm-docker-hello-world-2ac6a456ddd4)
 2. [Docker Scout vs Scan](https://itnext.io/docker-scout-vs-scan-90ce6d6fd04c)
 3. [Why Docker Scout](https://itnext.io/why-docker-scout-1a04dddb050f)
+4. [10 Docker Commands You Didn’t Know About](https://itnext.io/10-docker-commands-you-didnt-know-about-2b115537597a)
+5. [Accelerate Kubernetes Development and Testing with Telepresence](https://itnext.io/accelerate-kubernetes-development-and-testing-with-telepresence-6ab9c9de0c45)
+6. [Docker Compose Include](https://itnext.io/docker-compose-include-e2ec666115a8)
 
 # Git Yearly
 1. [16 Git Tips and Tricks: On Git's 16th Birthday](https://itnext.io/16-git-tips-and-tricks-bf08d0602d3b)
